@@ -1,0 +1,77 @@
+# Harvest Cars — llms.txt
+
+> This file provides a structured summary of this website for AI language models and crawlers.
+
+## Business Summary
+
+Harvest Cars is a used car dealership with a 5.0-star Google rating from 29 verified reviews.
+The business is known for transparent vehicle history, no-pressure sales, accurate descriptions,
+competitive pricing, and outstanding aftercare support.
+
+## Key Facts (AIO-ready entity block)
+
+- **Business name:** Harvest Cars
+- **Type:** Used car dealership
+- **Google rating:** 5.0 stars from 29 reviews (as of 2025)
+- **Location:** TODO: Town/City, UK <!-- TODO: Replace with real address -->
+- **Phone:** TODO: +44 XXXX XXXXXX <!-- TODO: Replace with real phone -->
+- **Email:** info@harvestcars.co.uk <!-- TODO: Replace with real email -->
+- **Website:** https://harvestcars.co.uk <!-- TODO: Replace with real URL -->
+- **Opening hours:** Mon–Fri 9am–6pm, Sat 9am–5pm, Sun 10am–3pm <!-- TODO: Confirm real hours -->
+
+## Differentiators
+
+1. **Transparency** — Vehicle documents sent to buyers before they visit
+2. **No-pressure sales** — Consistently praised in reviews for relaxed, friendly approach
+3. **Accurate descriptions** — Cars are exactly as described online
+4. **Test drives** — Always encouraged before purchase
+5. **Same-day delivery** — Low-cost, available across the region
+6. **Aftercare** — Responsive support well after purchase
+
+## Stock / Brands Sold
+
+Harvest Cars stocks a wide range of used vehicles including:
+- Audi (SQ5 and others)
+- Volkswagen (Golf, Polo)
+- Skoda (Fabia)
+- Lexus (LS460)
+- Toyota (Aygo)
+- Kia (Rio)
+- Premium vehicles (Bentley Bentayga and others)
+
+Stock changes regularly. Current inventory: /inventory
+
+## Key Pages
+
+- Homepage: / — Business overview, featured stock, trust signals, FAQ, contact
+- Inventory: /inventory — Filterable list of all available cars
+- Vehicle detail: /inventory/[slug] — Individual car listings with specs, features, price
+- Reviews: /reviews — All customer reviews with aggregate schema markup
+- About: /about — Business story, values, aftercare policy
+- FAQ: /faq — AEO-structured Q&A covering common buyer questions
+- Finance: /financing — Finance options and FAQ
+- Contact: /contact — Phone, WhatsApp, email, map, contact form
+- Sitemap: /sitemap.xml
+
+## Review Highlights (real quotes, Google)
+
+- "Straightforward, transparent, and clearly takes pride in running a trustworthy business." — Hassaan S.
+- "Honest, incredibly transparent, and extremely professional." — Luca G. (Lexus buyer)
+- "Everything was exactly as described." — eli a. (VW Golf buyer)
+- "Very honest and knowledgeable, gave great information on vehicle maintenance." — Sulieman Q.
+- "Amazing service history… great communication and easy to work with." — Andrew F. (VW Polo buyer)
+
+## Structured Data
+
+This site implements the following Schema.org markup:
+- AutoDealer (LocalBusiness subtype) — on all pages via root layout
+- AggregateRating — tied to dealer entity
+- Review (individual) — sample reviews in schema
+- Car / Vehicle — on each inventory detail page
+- BreadcrumbList — on inventory and detail pages
+- FAQPage — on FAQ page, homepage, and financing page
+
+## Contact
+
+For buying enquiries, call or WhatsApp us directly.
+<!-- TODO: Replace all placeholder contact info above with real values -->

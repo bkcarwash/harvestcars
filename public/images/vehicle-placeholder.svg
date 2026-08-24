@@ -1,0 +1,26 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#141416"/>
+  <rect x="1" y="1" width="798" height="498" rx="3" stroke="#27272A" stroke-width="2"/>
+  <!-- Car silhouette -->
+  <g transform="translate(220, 140)">
+    <!-- Body -->
+    <path d="M40 160 L30 130 Q28 100 60 80 L120 40 Q160 20 220 20 L260 20 Q300 20 330 30 L360 80 Q380 90 380 100 L380 160 Z" fill="#27272A"/>
+    <!-- Roof -->
+    <path d="M100 80 L140 40 Q170 20 210 20 L250 20 Q280 20 310 30 L340 80 Z" fill="#1E1E20"/>
+    <!-- Windows -->
+    <path d="M115 75 L145 48 Q165 35 200 35 L240 35 Q265 35 285 45 L310 75 Z" fill="#0A0A0B" opacity="0.8"/>
+    <!-- Front wheel -->
+    <circle cx="90" cy="162" r="35" fill="#1E1E20" stroke="#3F3F46" stroke-width="2"/>
+    <circle cx="90" cy="162" r="18" fill="#27272A"/>
+    <!-- Rear wheel -->
+    <circle cx="310" cy="162" r="35" fill="#1E1E20" stroke="#3F3F46" stroke-width="2"/>
+    <circle cx="310" cy="162" r="18" fill="#27272A"/>
+    <!-- Headlight -->
+    <ellipse cx="375" cy="115" rx="12" ry="8" fill="#D4AF37" opacity="0.6"/>
+    <!-- Ground line -->
+    <line x1="20" y1="197" x2="400" y2="197" stroke="#27272A" stroke-width="2"/>
+  </g>
+  <!-- Text -->
+  <text x="400" y="380" text-anchor="middle" fill="#3F3F46" font-family="Georgia, serif" font-size="16" font-weight="500">Photo Coming Soon</text>
+  <text x="400" y="404" text-anchor="middle" fill="#27272A" font-family="Georgia, serif" font-size="13">Contact us for more images</text>
+</svg>
