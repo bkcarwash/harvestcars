@@ -438,10 +438,8 @@ export const businessInfo = {
     latitude: 51.5517907,
     longitude: -0.1741709,
   },
-  // TODO: Replace with real phone number (E.164 format)
-  telephone: "+44 XXXX XXXXXX",
-  // TODO: Replace with real WhatsApp link
-  whatsappUrl: "https://wa.me/44XXXXXXXXXX",
+  telephone: "+44 7568 920299",
+  whatsappUrl: "https://wa.me/447568920299?text=Hi%2C%20I%27m%20interested%20in%20one%20of%20your%20cars.",
   // TODO: Replace with real email
   email: "info@harvestcars.co.uk",
   // TODO: Replace with real website URL

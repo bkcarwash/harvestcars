@@ -4,6 +4,7 @@ import "./globals.css";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { MobileCTABar } from "@/components/layout/MobileCTABar";
+import { WhatsAppFloat } from "@/components/layout/WhatsAppFloat";
 import { buildAutoDealerSchema, buildWebSiteSchema } from "@/lib/schema";
 import { businessInfo } from "@/lib/data";
 
@@ -157,6 +158,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <Footer />
         {/* Sticky mobile CTA bar — local-service conversion pattern */}
         <MobileCTABar />
+        {/* Floating WhatsApp button — desktop only (MobileCTABar handles mobile) */}
+        <WhatsAppFloat />
       </body>
     </html>
   );
