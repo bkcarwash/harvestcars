@@ -185,6 +185,37 @@ export function Footer() {
         </div>
       </div>
 
+      {/* Trusted Partners */}
+      <div className="border-t border-[#27272A]">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex flex-col sm:flex-row items-center gap-3">
+          <p className="text-[#71717A] text-xs uppercase tracking-wider shrink-0">
+            Trusted Auto Detailing Partners in Manchester:
+          </p>
+          <ul className="flex flex-wrap items-center gap-4">
+            <li>
+              <a
+                href="https://www.latinkingdetailing.co.uk/"
+                rel="dofollow"
+                title="Latin King Detailing Manchester"
+                className="text-[#A1A1AA] text-xs hover:text-gold transition-colors"
+              >
+                latinkingdetailing
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.srvdetailing.co.uk/"
+                rel="dofollow"
+                title="SRV Detailing Manchester"
+                className="text-[#A1A1AA] text-xs hover:text-gold transition-colors"
+              >
+                srvdetailing.co.uk
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
       {/* Bottom Bar */}
       <div className="border-t border-[#27272A]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
